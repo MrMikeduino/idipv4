@@ -6,7 +6,7 @@ Description
 The idipv4 is a simple but handy security tool for identifying foreign
 destination IPv4 addresses found outside the US from a simple 
 netstat output.  Uses rdap or whois (your choice in code). Outputs
-to console and output file for redlisting.
+to console and output file for red/black listing.
 
 Author: M.Guman  
 Baseline 20190102
